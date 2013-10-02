@@ -49,15 +49,51 @@
     <availablePage>
       <emfPageIdentifier href="AppModel.notation#_XXojYCBoEeOsYJIEtBifuQ"/>
     </availablePage>
+    <availablePage>
+      <emfPageIdentifier href="AppModel.notation#_PLzzgCH_EeOvEt9Oh-SsBw"/>
+    </availablePage>
+    <availablePage>
+      <emfPageIdentifier href="AppModel.notation#_NyK4UCIFEeOvEt9Oh-SsBw"/>
+    </availablePage>
+    <availablePage>
+      <emfPageIdentifier href="AppModel.notation#_Na7FgCRAEeOwO4jQ1Xa1RA"/>
+    </availablePage>
+    <availablePage>
+      <emfPageIdentifier href="AppModel.notation#_P1oGACRDEeOwO4jQ1Xa1RA"/>
+    </availablePage>
+    <availablePage>
+      <emfPageIdentifier href="AppModel.notation#_5b5gkCRmEeOO_-rBDbP4QQ"/>
+    </availablePage>
+    <availablePage>
+      <emfPageIdentifier href="AppModel.notation#_y06wECRnEeOO_-rBDbP4QQ"/>
+    </availablePage>
   </pageList>
   <sashModel currentSelection="//@sashModel/@windows.0/@children.0">
     <windows>
       <children xsi:type="di:TabFolder">
         <children>
+          <emfPageIdentifier href="AppModel.notation#_fLBd8P88EeKMApqUy9q5-w"/>
+        </children>
+        <children>
           <emfPageIdentifier href="AppModel.notation#_zpbSkPtcEeK37v1R1CkX_g"/>
         </children>
         <children>
           <emfPageIdentifier href="AppModel.notation#_XXojYCBoEeOsYJIEtBifuQ"/>
+        </children>
+        <children>
+          <emfPageIdentifier href="AppModel.notation#_NyK4UCIFEeOvEt9Oh-SsBw"/>
+        </children>
+        <children>
+          <emfPageIdentifier href="AppModel.notation#_PLzzgCH_EeOvEt9Oh-SsBw"/>
+        </children>
+        <children>
+          <emfPageIdentifier href="AppModel.notation#_Na7FgCRAEeOwO4jQ1Xa1RA"/>
+        </children>
+        <children>
+          <emfPageIdentifier href="AppModel.notation#_P1oGACRDEeOwO4jQ1Xa1RA"/>
+        </children>
+        <children>
+          <emfPageIdentifier href="AppModel.notation#_y06wECRnEeOO_-rBDbP4QQ"/>
         </children>
       </children>
     </windows>
